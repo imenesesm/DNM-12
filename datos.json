@@ -2,6 +2,7 @@
     {
         "nombre": "Sailú",
         "fotos": ["https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/l1.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/l2.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/l3.webp"],
+        "descripcion": ["", "", ""],
         "soporte": "Industrial",
         "abstract": "Luminaria",
         "texto": "Lámpara de 60 cm de altura, con requisito de tener dos ejes de movimiento y 3 materiales, en este caso se usó madera de Raulí, acero y PAI. El eje de movimiento vertical esta el la pieza de acero (tiene dos alturas) y el horizontal está en la parte superior, donde hay tres lugares para poner el soquete."
@@ -9,6 +10,7 @@
     {
         "nombre": "Tallando la tradición",
         "fotos": ["https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/jn3.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/jn2.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/jn1.webp"],
+        "descripcion": ["", "", ""],
         "soporte": "Editorial",
         "abstract": "Libro digital interactivo",
         "texto": "Libro digital didáctico que relata la historia del artesano maderero mapuche José Neihual ilustrada, acompañado de textos audibles y actividades lúdicas. Dirigido a niños de 5 a 8 años con el fin de transmitir y valorar el quehacer artesanal y su conexión con la naturaleza."
@@ -16,13 +18,15 @@
     {
         "nombre": "JOIN THE EVERYDAYMESS",
         "fotos": ["https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/s1.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/s2.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/s3.webp"],
+        "descripcion": ["", "", ""],
         "soporte": "Editorial",
         "abstract": "Campaña de instagram",
-        "texto": "Contado desde la vida de Stussy Boy, JOIN THE EVERYDAYMESS muestra la cotidianeidad y rutina de este personaje, respresentada a través de lo anecdótica, divertida y caótica que puede ser la vida con las personas correctas."
+        "texto": "Contado desde la vida de Stussy Boy, JOIN THE EVERYDAYMESS muestra la cotidianidad y rutina de este personaje, respresentada a través de lo anecdótica, divertida y caótica que puede ser la vida con las personas correctas."
     },
     {
         "nombre": "Winx",
         "fotos": ["https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/b2.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/b1.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/b3.webp"],
+        "descripcion": ["", "", ""],
         "soporte": "Industrial",
         "abstract": "Banca",
         "texto": "Banca para dos personas construida a partir de 2 planchas de terciado 3mm, remaches pop y amarra cables. La estructura de las piezas de ariba genera rigidez suficiente para que sirva como asiento, ya que evita que se curve."
@@ -30,6 +34,7 @@
     {
         "nombre": "Di Tentazione ed eccesi",
         "fotos": ["https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/pv1.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/ev2.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/ev3.webp"],
+        "descripcion": ["", "", ""],
         "soporte": "Editorial",
         "abstract": "Editorial de revista",
         "texto": "Ejercicio Adémico que consistía en hacer una editorial para la revista Vogue Italia a partir del cuadro Jardín de las Delicias y el fotógrafo David LaChapelle. La editorial De Tentaciones y Excesos busca evidenciar el pecado original del mundo moderno, es decir, el consumismo extremo. La secuencia fotográfica relata cómo Eva contemporánea se enfrenta a un mundo que la tienta a morder la manzana metafórica de la cultura consumista."
@@ -37,6 +42,7 @@
     {
         "nombre": "Hereafter",
         "fotos": ["https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
+        "descripcion": ["", "", ""],
         "soporte": "Textil",
         "abstract": "Metodología de upcycling de ropa",
         "texto": "Construcción de pantalones a partir de pantalones que van a ser desechados, siguiendo la estética de la marca."
@@ -44,16 +50,18 @@
     {
         "nombre": "Personaliza tu Snack",
         "fotos": ["https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/cp2.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/cp1.webp", "https://raw.githubusercontent.com/imenesesm/DNM-12/main/fotos/cp3.webp"],
+        "descripcion": ["", "", ""],
         "soporte": "Producto",
         "abstract": "Rediseño de alimento para perros",
         "texto": "Producto para una marca de comida de perros en base a proteína de larva de mosca. Snack para perros con alergias alimenticias."
     },
     {
-        "nombre": "Octavo título",
+        "nombre": "ELEVA",
         "fotos": ["https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310"],
-        "soporte": "digital",
-        "abstract": "Donec convallis justo nulla, et ultrices sem fringilla",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "descripcion": ["", "", ""],
+        "soporte": "Estratégico",
+        "abstract": "Metodología de ideación de productos.",
+        "texto": "ELEVA es un método que busca desencadenar un flujo de las actividades de una fundación a productos vendibles y permite generar un promedio de 9 ideas de productos en 45 minutos que se clasifican según su costo y factibilidad."
     }
 
 ]
